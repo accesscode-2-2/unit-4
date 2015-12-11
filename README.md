@@ -9,7 +9,7 @@
 |1|Thursday|01/14|[Discrete Math and Logic](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_14.md)||
 |1|Saturday|01/16|[Job materials (workshop) + Sorts](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_16.md)|x|
 |1|Sunday|01/17|[Sorts + Assessment](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_17.md)||
-|2|Tuesday|01/19|[Intro to Stack + Heap](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_19.md)||
+|2|Tuesday|01/19|[Intro to Stack + Heap (memory)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_19.md)||
 |2|Thursday|01/21|[Quick Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_21.md)||
 |2|Saturday|01/23|[Behavioral interview questions (workshop) + Recursion + Merge Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|x|
 |2|Sunday|01/24|[Recursion + Merge Sort + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)||
