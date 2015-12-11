@@ -15,5 +15,5 @@
 |2|Sunday|01/24|[Recursion + Merge Sort + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)||
 |3|Tuesday|01/26|[Lists + Stacks + Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_26.md)|
 |3|Thursday|01/28|[Sets](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)|
-|3|Saturday|01/30|[Whiteboarding tips + tricks Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|
+|3|Saturday|01/30|[Whiteboarding tips + tricks Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|x|
 |3|Sunday|01/31|[Exercises + Assessment](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)|
