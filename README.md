@@ -20,6 +20,6 @@
 |3|Sunday|01/31|[Exercises + Assessment](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)| |
 
 ### Homework
- Due Date | Homework | Solution |
-|---|---|---|
-1/11/16 at 12:00 am | Submit links to updated GitHub, LinkedIn and Resume [SUBMIT HERE](http://goo.gl/forms/KUfBPRHQBr) | x 
+ Due Date | Homework | Submission Format | Solution |
+|---|---|---|---|
+1/11/16 at 12:00 am | Submit links to updated GitHub, LinkedIn and Resume | [Link to Google Form](http://goo.gl/forms/KUfBPRHQBr) | x 
