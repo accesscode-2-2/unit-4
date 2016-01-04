@@ -10,8 +10,8 @@
 |1|Saturday|01/16|[Lists + Sorts](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_16.md)| |
 |1|Sunday|01/17|[Sorts + Assessment](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_17.md)| |
 |2|Tuesday|01/19|[Behavioral interview questions (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_19.md)|x|
-|2|Friday|01/22|LinkedIn profile workshop @ LinkedIn|x|
 |2|Thursday|01/21|[Intro to Stack + Heap (memory)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_21.md)| |
+|2|Friday|01/22|LinkedIn profile workshop @ LinkedIn|x|
 |2|Saturday|01/23|[Quick Sort + Recursion](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)| |
 |2|Sunday|01/24|[Merge Sort + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)| |
 |3|Tuesday|01/26|[Entrepreneurship Talk](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_26.md)|x|
