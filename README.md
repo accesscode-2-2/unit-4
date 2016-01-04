@@ -22,4 +22,4 @@
 ### Homework
  Due Date | Homework | Solution |
 |---|---|---|
-1/11/16 at 12:00 am | Submit links to updated GitHub, LinkedIn and Resume [SUBMIT HERE] | x 
+1/11/16 at 12:00 am | Submit links to updated GitHub, LinkedIn and Resume [SUBMIT HERE](http://goo.gl/forms/KUfBPRHQBr) | x 
