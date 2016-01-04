@@ -18,3 +18,8 @@
 |3|Thursday|01/28|[Lists, Stacks + Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)| |
 |3|Saturday|01/30|[Sets + Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)| |
 |3|Sunday|01/31|[Exercises + Assessment](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)| |
+
+### Homework
+ Due Date | Homework | Solution |
+|---|---|---|
+1/11/16 at 12:00 am | Submit links to updated GitHub, LinkedIn and Resume [SUBMIT HERE] | x 
