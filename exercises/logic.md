@@ -20,11 +20,13 @@ alarm_clock(1, False) → '7:00'
 alarm_clock(5, False) → '7:00'  
 alarm_clock(0, False) → '10:00'
 
-**Alarm Clock** [source](http://codingbat.com/prob/p165321)
+**Near Ten** [source](http://codingbat.com/prob/p165321)
 
-Given a non-negative number "num", return True if num is within 2 of a multiple of 10. Note: (a % b) is the remainder of dividing a by b, so (7 % 5) is 2. See also: Introduction to Mod 
+Given a non-negative number "num", return True if num is within 2 of a multiple of 10. Note: (a % b) is the remainder of dividing a by b, so (7 % 5) is 2. See also: Introduction to Mod   
 
-> *Example:*
-near_ten(12) → True
-near_ten(17) → False
+> *Example:*  
+near_ten(12) → True  
+near_ten(17) → False  
 near_ten(19) → True
+
+You can click through to the [CodingBat website](http://codingbat.com/python/Logic-1) for a whole bunch of exercises. These exercises are in Python, but you can do them in any language you want. 
