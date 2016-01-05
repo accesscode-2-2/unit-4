@@ -19,3 +19,12 @@ Given a day of the week encoded as 0=Sun, 1=Mon, 2=Tue, ...6=Sat, and a boolean 
 alarm_clock(1, False) → '7:00'  
 alarm_clock(5, False) → '7:00'  
 alarm_clock(0, False) → '10:00'
+
+**Alarm Clock** [source](http://codingbat.com/prob/p165321)
+
+Given a non-negative number "num", return True if num is within 2 of a multiple of 10. Note: (a % b) is the remainder of dividing a by b, so (7 % 5) is 2. See also: Introduction to Mod 
+
+> *Example:*
+near_ten(12) → True
+near_ten(17) → False
+near_ten(19) → True
