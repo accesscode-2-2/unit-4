@@ -24,3 +24,12 @@ Given an array of ints length 3, return an array with the elements "rotated left
 rotate_left3([1, 2, 3]) → [2, 3, 1]  
 rotate_left3([5, 11, 9]) → [11, 9, 5]  
 rotate_left3([7, 0, 0]) → [0, 0, 7]  
+
+**Middle Way** [source](http://codingbat.com/prob/p171011)    
+Given 2 int arrays, a and b, each length 3, return a new array length 2 containing their middle elements.    
+
+> *Example:*    
+middle_way([1, 2, 3], [4, 5, 6]) → [2, 5]  
+middle_way([7, 7, 7], [3, 8, 0]) → [7, 8]  
+middle_way([5, 2, 9], [1, 4, 5]) → [2, 4]  
+
