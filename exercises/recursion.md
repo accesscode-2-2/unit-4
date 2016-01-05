@@ -37,4 +37,4 @@ sumDigits(126) → 9
 sumDigits(49) → 13   
 sumDigits(12) → 3 
 
-[Tons More!!!](http://codingbat.com/java/Recursion-1)
+You can click through to the [CodingBat website](http://codingbat.com/java/Recursion-1) for a whole bunch of exercises. The website is for Java, but you can obviously do these problems in any language you want. 
