@@ -33,5 +33,5 @@ middle_way([1, 2, 3], [4, 5, 6]) → [2, 5]
 middle_way([7, 7, 7], [3, 8, 0]) → [7, 8]  
 middle_way([5, 2, 9], [1, 4, 5]) → [2, 4]  
 
-You can click through to the [CodingBat website](http://codingbat.com/java/Recursion-1) for a whole bunch of exercises. These exercises are in Python, but you can do them in any language you want. 
+You can click through to the [CodingBat website](http://codingbat.com/python/List-1) for a whole bunch of exercises. These exercises are in Python, but you can do them in any language you want. 
 
