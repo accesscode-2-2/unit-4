@@ -24,5 +24,5 @@
 |---|---|---|---|
 1/11/16 at 12:00 am | [Submit links to updated GitHub, LinkedIn and Resume](https://docs.google.com/document/d/1Y6oAzxDa_K0_0_Mz_S-O5w0LJ5eJUuL4iODAH9Fj2FQ/edit?usp=sharing) | [Link to Google Form](http://goo.gl/forms/KUfBPRHQBr) | x 
 1/09/16 at 12:00 am | [Data Structures Worksheet](http://www.cs.cornell.edu/courses/CS2110/2014sp/L09-Lists/data_structures.pdf) | [Link to Google Form](https://docs.google.com/a/c4q.nyc/forms/d/1qGLpV_eLZv6a-zrS6dHEQqwPv4QbpBSh646XNqa55Ps/viewform) | x
-1/14/16 at 12:00 am | [MVC and Unit 0 Swift](/404) | Submission Form | x |
+1/14/16 at 12:00 am | [MVC and Unit 0 Swift](https://docs.google.com/document/d/1DQ2aCJ_yUZtazzCfb0PaS81bg61V2ZOSxpABh981xSo/edit) | [Link to Google Form](http://goo.gl/forms/pRH1QGa2Wm) | x |
 1/14/16 at 12:00 am | [Big O notation](https://docs.google.com/document/d/1aF1imJUVahCSJAuN1OEm5lQXwpSFaAmVmAETKMM6PLQ/edit#heading=h.za36ai6n5fth) | [Link to Google Form](http://goo.gl/forms/OKnVou1iTm) | x
