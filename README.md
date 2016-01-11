@@ -1,10 +1,10 @@
 ###Unit 4 Schedule
 |Week|Day|Date|Activity|Instructor|Exit Ticket|
 |---|---|---|---|---|---|
-|0|Tuesday|01/05|[How to frame Access Code + Intro to Swift](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_05.md) (non-technical)  | |x|
-|0|Thursday|01/07|[Intro to data structures / algorithms](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_07.md)|Cameron| |
-|0|Saturday|01/09|[Recap unit 0 in Swift + MVC](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_09.md)|Linus| |
-|0|Sunday|01/10|[iOS Personal Project + Big O](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_10.md)|Caleb| |
+|0|Tuesday|01/05|[How to frame Access Code + Intro to Swift](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_05.md) (non-technical)  |[Exit Ticket](https://docs.google.com/forms/d/1CuY-UFTL3CULwPOWfqFoG4LuEHPAi2iB3ZoJsGTat44/viewform)|
+|0|Thursday|01/07|[Intro to data structures / algorithms](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_07.md)|Cameron| [Exit Ticket](https://docs.google.com/a/c4q.nyc/forms/d/1FfZbLI9WP5ohJssEeZQk7aQSc5suKmMe6K21xpEENWg/viewform)
+|0|Saturday|01/09|[Recap unit 0 in Swift + MVC](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_09.md)|Linus| [Exit Ticket](https://docs.google.com/forms/d/1ZtOgbNZqI-0KXzmuvebMudQS5EvoOQJ8EZu3J6J8Fuk/viewform) |
+|0|Sunday|01/10|[iOS Personal Project + Big O](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_10.md)|Caleb| [Exit Ticket](https://docs.google.com/forms/d/1RbMowGnkMUOXTfbt5CElW4cfwkTlyVKX9K2tT1xm8ZY/viewform) |
 |1|Tuesday|01/12|[Technical Pathways with Dion and Job materials (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_12.md) (non-technical) | | x|
 |1|Thursday|01/14|[Discrete Math and Logic](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_14.md)|Cameron| |
 |1|Saturday|01/16|[Lists + Sorts](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_16.md)|Linus| |
