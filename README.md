@@ -28,3 +28,4 @@
 1/14/16 at 12:01 am | [MVC and Unit 0 Swift](https://docs.google.com/document/d/1DQ2aCJ_yUZtazzCfb0PaS81bg61V2ZOSxpABh981xSo/edit) | [Fork this repo.  Push to your repo by the deadline](https://github.com/accesscode-2-2/unit-4-assignments) | x |
 1/14/16 at 12:01 am | [Big O notation](https://docs.google.com/document/d/1aF1imJUVahCSJAuN1OEm5lQXwpSFaAmVmAETKMM6PLQ/edit#heading=h.za36ai6n5fth) | [Fork this repo.  Push to your repo by the deadline](https://github.com/accesscode-2-2/unit-4-assignments) | x
 1/19/16 at 12:01 am | Have a least 2 submission on your blog.  Have a detailed README in your passion project repo that outlines the work you will be doing. | Complete this on the blog and repo you linked to on the Google Form | x
+1/19/16 at 12:01 am | Revise and resubmit your resume | Upload to the shared [Drive Folder](https://drive.google.com/drive/u/0/folders/0B61otWQVg7ApUFFjWkx6ZE9VOUU) | x
