@@ -30,3 +30,4 @@
 1/16/16, 10:00 am | [Discrete math and logic](https://docs.google.com/document/d/1pqdYlbeoJAVhAR7fT7iuHQ0F-mIH3pbcei-rNX_L5Kw/edit#) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
 1/19/16, 7:00 pm | Have a least 2 submission on your blog.  Have a detailed README in your passion project repo that outlines the work you will be doing. | Complete this on the blog and repo you linked to on the Google Form | x
 1/19/16, 7:00 pm | Revise and resubmit your resume | Upload to the shared [Drive Folder](https://drive.google.com/drive/u/0/folders/0B61otWQVg7ApUFFjWkx6ZE9VOUU) | x
+1/21/16 7:00 pm | [Lists and Sorts](https://docs.google.com/document/d/1XioaEqk6VqUPA-ccQhkqP3eAoDthxYyOM9vSPB7fDkg/edit#heading=h.uopysoy45zmw) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
