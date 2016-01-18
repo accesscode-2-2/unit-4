@@ -17,7 +17,7 @@
 |3|Tuesday|01/26|[Entrepreneurship Talk](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_26.md) (non-technical) | |x|
 |3|Thursday|01/28|[Linked Lists, Stacks + Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)|Cameron| |
 |3|Saturday|01/30|[Sets + Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|Linus| |
-|3|Sunday|01/31|[Sets + Hashmaps Continued + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)|Caleb| |
+|3|Sunday|01/31|[Sets + Hashmaps Continued](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)|Caleb| |
 
 ### Homework
  Due Date | Homework | Submission Format | Solution |
