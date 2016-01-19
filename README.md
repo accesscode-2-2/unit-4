@@ -8,7 +8,7 @@
 |1|Tuesday|01/12|[Technical Pathways with Dion and Job materials (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_12.md) (non-technical) | | x|
 |1|Thursday|01/14|[Discrete Math and Logic](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_14.md)|Cameron| |
 |1|Saturday|01/16|[Lists + Sorts](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_16.md)|Linus| |
-|1|Sunday|01/17|[Sorts + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_17.md)|Caleb| |
+|1|Sunday|01/17|[Sorts + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_17.md)|Caleb|[Sorts](https://docs.google.com/a/c4q.nyc/forms/d/1_KyAL5ZbluMin0CaxGij_1Py9tbQ9kU26Ni8QwYflWg/viewform) |
 |2|Tuesday|01/19|[Behavioral interview questions (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_19.md) (non-technical) | |x|
 |2|Thursday|01/21|[Intro to Stack + Heap (memory)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_21.md)|Cameron| |
 |2|Friday|01/22|LinkedIn profile workshop @ LinkedIn (non-technical) | |x|
