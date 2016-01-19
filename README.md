@@ -12,8 +12,8 @@
 |2|Tuesday|01/19|[Behavioral interview questions (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_19.md) (non-technical) | |x|
 |2|Thursday|01/21|[Intro to Stack + Heap (memory)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_21.md)|Cameron| |
 |2|Friday|01/22|LinkedIn profile workshop @ LinkedIn (non-technical) | |x|
-|2|Saturday|01/23|[Quick Sort + Recursion](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|Linus| |
-|2|Sunday|01/24|[Merge Sort + Assessment](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)|Caleb| |
+|2|Saturday|01/23|[Assessment + Recursion + Quick Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|Linus| |
+|2|Sunday|01/24|[Merge Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)|Caleb| |
 |3|Tuesday|01/26|[Entrepreneurship Talk](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_26.md) (non-technical) | |x|
 |3|Thursday|01/28|[Linked Lists, Stacks + Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)|Cameron| |
 |3|Saturday|01/30|[Sets + Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|Linus| |
