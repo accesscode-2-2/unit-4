@@ -9,7 +9,7 @@
 |1|Thursday|01/14|[Discrete Math and Logic](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_14.md)|Cameron|[Discrete Math and Logic](https://docs.google.com/forms/d/165XovipUxOWgS2BVCVhMA68sXjpJvUWQ9myX6VlysTA/viewform) |
 |1|Saturday|01/16|[Lists + Sorts](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_16.md)|Linus|[Part One](https://docs.google.com/forms/d/1zNY7ERqpUdHXJELDQbhqtOZ0e7yBQ7_VoZOxlxdVqhE/viewform) and [Part Two](https://docs.google.com/forms/d/1BJpxfueJTnn3nxnqI3RxqheMv3vyjyMdeakMqDpBtr0/viewform) |
 |1|Sunday|01/17|[Sorts + Exercises](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_17.md)|Caleb|[Sorts](https://docs.google.com/a/c4q.nyc/forms/d/1_KyAL5ZbluMin0CaxGij_1Py9tbQ9kU26Ni8QwYflWg/viewform) |
-|2|Tuesday|01/19|[Behavioral interview questions (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_19.md) (non-technical) | |x|
+|2|Tuesday|01/19|[Behavioral interview questions (workshop)](https://docs.google.com/presentation/d/1hDptFfv7ol3dzN4_tlxP5TntUXYMOsbezQ-iMpBvQZU/edit#slide=id.p) (non-technical) | |x|
 |2|Thursday|01/21|[Intro to Stack + Heap (memory)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_21.md)|Cameron| |
 |2|Friday|01/22|LinkedIn profile workshop @ LinkedIn (non-technical) | |x|
 |2|Saturday|01/23|[Assessment + Recursion + Quick Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|Linus| |
