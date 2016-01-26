@@ -12,7 +12,7 @@
 |2|Tuesday|01/19|[Behavioral interview questions (workshop)](https://docs.google.com/presentation/d/1hDptFfv7ol3dzN4_tlxP5TntUXYMOsbezQ-iMpBvQZU/edit#slide=id.p) (non-technical) | |x|
 |2|Thursday|01/21|[Intro to Stack + Heap (memory)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_21.md)|Cameron| [Stack and Heap](https://docs.google.com/a/c4q.nyc/forms/d/1smEuB4YJTsIZE6wb-AAinCb5cfBJRYqPhBrBDw-7lyw/viewform) |
 |2|Friday|01/22|LinkedIn profile workshop @ LinkedIn (non-technical) | |x|
-|2|Saturday|01/23|[Snow Day!](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|Linus| |
+|2|Saturday|01/23|[Snow Day!](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|Linus| x |
 |2|Sunday|01/24|[Assessment and Recursion](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)|Caleb| [Recursion](https://docs.google.com/a/c4q.nyc/forms/d/12ks1GWOLStbvo57GX35LWmB25a1v7ZSGryAjtAPT8NY/viewform) |
 |3|Tuesday|01/26|[Entrepreneurship Talk](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_26.md) (non-technical) | |x|
 |3|Thursday|01/28|[Quick Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)|Cameron| |
