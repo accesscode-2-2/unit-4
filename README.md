@@ -14,7 +14,7 @@
 |2|Friday|01/22|LinkedIn profile workshop @ LinkedIn (non-technical) | |x|
 |2|Saturday|01/23|[Snow Day!](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_23.md)|Linus| x |
 |2|Sunday|01/24|[Assessment and Recursion](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)|Caleb| [Recursion](https://docs.google.com/a/c4q.nyc/forms/d/12ks1GWOLStbvo57GX35LWmB25a1v7ZSGryAjtAPT8NY/viewform) |
-|3|Tuesday|01/26|[Entrepreneurship Talk](https://docs.google.com/presentation/d/1wF6aLj2TMSXlDRoru-ppcHyV4giiT_EOr0XySZ6D4EI/edit#slide=id.gee8e17824_0_10) (non-technical) | |x|
+|3|Tuesday|01/26|[Entrepreneurship Talk](https://docs.google.com/presentation/d/1wF6aLj2TMSXlDRoru-ppcHyV4giiT_EOr0XySZ6D4EI/edit#slide=id.gee8e17824_0_10) (non-technical) | https://docs.google.com/a/c4q.nyc/forms/d/1HL_Q6GByDH7zSb8_HWw7qNYwkIiT4EaUtTuXcXsiyJc/viewform |x|
 |3|Thursday|01/28|[Quick Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)|Cameron| |
 |3|Saturday|01/30|[Merge Sort, Stacks and Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|Linus| |
 |3|Sunday|01/31|[Sets + Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)|Caleb| |
