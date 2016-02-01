@@ -16,8 +16,8 @@
 |2|Sunday|01/24|[Assessment and Recursion](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-2/2016_01_24.md)|Caleb| [Recursion](https://docs.google.com/a/c4q.nyc/forms/d/12ks1GWOLStbvo57GX35LWmB25a1v7ZSGryAjtAPT8NY/viewform) |
 |3|Tuesday|01/26|[Whiteboarding + Informational Interviews](https://docs.google.com/presentation/d/1wF6aLj2TMSXlDRoru-ppcHyV4giiT_EOr0XySZ6D4EI/edit#slide=id.gee8e17824_0_10) (non-technical) | Rachel |[Research and informational interviews](https://docs.google.com/a/c4q.nyc/forms/d/1HL_Q6GByDH7zSb8_HWw7qNYwkIiT4EaUtTuXcXsiyJc/viewform)|
 |3|Thursday|01/28|[Merge Sort](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_28.md)|Cameron| [Merge sort](https://docs.google.com/a/c4q.nyc/forms/d/1MU0mXmGww5wft-HJMy3hPShc0RV7Qbic5w2LWiuEkr4/viewform) |
-|3|Saturday|01/30|[Quick Sort, Stacks and Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|Linus| |
-|3|Sunday|01/31|[Sets + Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)|Caleb| |
+|3|Saturday|01/30|[Quick Sort, Stacks and Queues](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_30.md)|Linus| [Quick Sort, Stacks and Queues](https://docs.google.com/a/c4q.nyc/forms/d/1rjyZcfvRRsUr9Zi36Qa9NZFRNh6BdY5xcC8SHbCV_e4/viewform) |
+|3|Sunday|01/31|[Sets + Hashmaps](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-3/2016_01_31.md)|Caleb| [Sets + Hashmaps](https://docs.google.com/a/c4q.nyc/forms/d/1OOJGDY1bn6V_9duirC7J24TFPEsUE8akuQoZ0-XFVKg/viewform) |
 
 ### Homework
  Due Date | Homework | Submission Format | Solution |
@@ -37,3 +37,4 @@
 2/02/16 4:00 pm | [Company research + Informational interviewing](https://docs.google.com/document/d/1pxiXQDhQXOK5gngrmmLpXVqbaI6IyJdt6vtLVRCxg7g/edit) | [Link to Google Form](https://docs.google.com/a/c4q.nyc/forms/d/1tXu0OSvpBP6QqZoE-RxeD3OpFFQQ61HgvfTA6zRkQjQ/viewform)
 1/30/16 10:00 am | [Merge Sort](https://docs.google.com/document/d/1rlQ3lstnNb3fOR58EwGDysMQ0FSDkUGykcCoU14B9Go/edit#heading=h.za36ai6n5fth) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
 2/04/16 7:00 pm | [Quick sort, stacks and queues](https://docs.google.com/document/d/1KlK3PmRMybmHS5db_AP11uHXIcbIeM5vHuuAZOV3xME/edit#heading=h.yt6nu2u4pspa) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
+2/04/16 7:00 pm | [Sets + Hashmaps](https://docs.google.com/document/d/1T7tYRqpDPWoxarfmXqfRCHB-YqvA8-Qx_mEyy5smtfc/edit#heading=h.za36ai6n5fth) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
