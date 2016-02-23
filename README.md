@@ -2,7 +2,7 @@
 |Week|Day|Date|Activity|Instructor|Exit Ticket Link|Exit Ticket Answer|
 |---|---|---|---|---|---|---|
 |0|Tuesday|01/05|[How to frame Access Code + Intro to Swift](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_05.md) (non-technical)  |[Intro to Swift](https://docs.google.com/forms/d/1CuY-UFTL3CULwPOWfqFoG4LuEHPAi2iB3ZoJsGTat44/viewform)|x
-|0|Thursday|01/07|[Intro to data structures / algorithms](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_07.md)|Cameron| [Data Structures/Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/1FfZbLI9WP5ohJssEeZQk7aQSc5suKmMe6K21xpEENWg/viewform)| Link|
+|0|Thursday|01/07|[Intro to data structures / algorithms](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_07.md)|Cameron| [Data Structures/Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/1FfZbLI9WP5ohJssEeZQk7aQSc5suKmMe6K21xpEENWg/viewform)| [Link](https://github.com/accesscode-2-2/unit-5/blob/master/exitTicketsSolutions.md)|
 |0|Saturday|01/09|[Recap unit 0 in Swift + MVC](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_09.md)|Linus| [MVC + Swift](https://docs.google.com/forms/d/1ZtOgbNZqI-0KXzmuvebMudQS5EvoOQJ8EZu3J6J8Fuk/viewform) |
 |0|Sunday|01/10|[iOS Personal Project + Big O](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-0/2016_01_10.md)|Caleb| [Big O](https://docs.google.com/forms/d/1RbMowGnkMUOXTfbt5CElW4cfwkTlyVKX9K2tT1xm8ZY/viewform) |
 |1|Tuesday|01/12|[Technical Pathways with Dion and Job materials (workshop)](https://github.com/accesscode-2-2/unit-4/blob/master/lessons/week-1/2016_01_12.md) (non-technical) | | x|
